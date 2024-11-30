@@ -1,5 +1,5 @@
 {
-  "name": "watch-for-element",
+  "name": "@tmetcalfe89/watch-for-element",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "ARR",
   "description": "",
   "dependencies": {
     "@tmetcalfe89/signal": "github:tmetcalfe89/signal"
