@@ -11,5 +11,6 @@
   "description": "",
   "dependencies": {
     "@tmetcalfe89/signal": "github:tmetcalfe89/signal"
-  }
+  },
+  "type": "module"
 }
